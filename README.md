@@ -29,12 +29,13 @@ Direct text file URL: https://www.gutenberg.org/ebooks/64317
 
 
 ## Project Structure  
-
+```
 NLP-Gutenberg-Analysis/
 │── NLP_Gutenberg_Analysis.ipynb   # Google Colab notebook (Python code)
 │── README.md                      # Project Documentation
 │── wordcloud.png                  # Output Image (Word Cloud)
 │── requirements.txt                # Dependencies (if needed)
+```
 
 ## Setup & Execution
 # Option 1: Run in Google Colab
